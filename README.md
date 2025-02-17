@@ -43,4 +43,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/mikayelyolchyan/mikayelyolchyan/output/github-snake.svg)
+![Змейка](dist/github-snake.svg)
