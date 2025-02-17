@@ -21,7 +21,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Commit и push результата  # <-- Исправлен отступ
+      - name: Проверка содержимого dist/
+        run: |
+          ls -la dist/
+
+      - name: Commit и push результата
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
