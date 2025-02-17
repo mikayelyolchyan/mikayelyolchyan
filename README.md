@@ -42,5 +42,6 @@
 [![](https://visitcount.itsvg.in/api?id=mikayelyolchyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Змейка](dist/github-snake.svg)
+<p align="center">
+  <img src="dist/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
