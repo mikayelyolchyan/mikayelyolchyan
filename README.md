@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/FFAbeUL.gif"/>
+  <img src="https://i.imgur.com/nxSfTG8.gif"/>
 
 ## I`m Mikayel, student of 42school
 
