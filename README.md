@@ -36,9 +36,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikayelyolchyan&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
-## ✍️ Random Dev Quote
+## ✍️ Random Quote
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default">
 </div>
 
 ## 🔝 Top Contributed Repo
