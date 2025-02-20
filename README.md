@@ -31,19 +31,19 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mikayelyolchyan&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikayelyolchyan&theme=github_dark_dimmed&hide_border=false"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikayelyolchyan&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=mikayelyolchyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikayelyolchyan&theme=shadow_green&hide_border=false"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikayelyolchyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 ## ✍️ Random Quote
 <div align="center">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 </div>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mikayelyolchyan&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=mikayelyolchyan&limit=5&theme=shadow_green&combine_all_yearly_contributions=true">
 </div>
 
 ---
