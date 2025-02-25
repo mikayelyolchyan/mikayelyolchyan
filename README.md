@@ -60,7 +60,6 @@
 
 ### Virtualization & Networking:
 <div align="center">
-    <img src="https://img.shields.io/badge/VMware-%23007ACC.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/VirtualBox-%2311AB00.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/LVM%20Management-%23F05032.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge">
