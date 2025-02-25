@@ -66,6 +66,12 @@
     <img src="https://img.shields.io/badge/UFW%20Firewall-%2311AB00.svg?style=for-the-badge">
 </div>
 
+### Robotics
+<div align="center">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino%20Cloud-%2311AB00.svg?style=for-the-badge">
+</div>
+
 ## 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mikayelyolchyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"><br/>
