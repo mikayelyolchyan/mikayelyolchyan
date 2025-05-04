@@ -15,13 +15,11 @@
 ### Programming Languages:
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 ### Operating Systems:
 <div align="center">
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
 ### System Programming:
@@ -46,10 +44,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Makefile-%23007ACC.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Shell%20Scripting-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-### System Administration & Security:
+### System Administration & Security (Basic):
 <div align="center">
     <img src="https://img.shields.io/badge/User%20Management-%2311AB00.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/SSH%20Configuration-%23007ACC.svg?style=for-the-badge">
@@ -58,7 +55,7 @@
     <img src="https://img.shields.io/badge/System%20Monitoring-%2311AB00.svg?style=for-the-badge">
 </div>
 
-### Virtualization & Networking:
+### Virtualization & Networking (Basic):
 <div align="center">
     <img src="https://img.shields.io/badge/VirtualBox-%2311AB00.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/LVM%20Management-%23F05032.svg?style=for-the-badge">
