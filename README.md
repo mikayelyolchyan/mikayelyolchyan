@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://i.imgur.com/nxSfTG8.gif"/>
 
-## I`m Mikayel, student of 42school
+## I`m Mikayel, robotics workshop leader at TUMO and junior Analyst at ISAA
+As a Robotics Workshop Leader at TUMO, I guide teenagers aged 12-18 in hands-on robotics projects using Arduino, sensors, and actuators. I design interactive workshops blending programming, electronics, and mechanical design to help students build functional robots and explore automation, IoT, and robotics applications. At the Information Systems Agency of Armenia, as a Junior Analyst, I support cybersecurity, cloud services, and UI/UX teams, contributing to analysis, documentation, coordination, and quality assurance to advance Armenia’s digital society. Currently, I am a student at School 42, sharpening my programming and software development skills.
 
 ## 🌐 Socials:
 <div align="center">
