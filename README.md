@@ -8,67 +8,19 @@ As a Robotics Workshop Leader at TUMO, I guide teenagers aged 12-18 in hands-on 
 
 ## 🌐 Socials:
 <div align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikayel-yolchyan/">
+  <a href="https://www.linkedin.com/in/mikayel-yolchyan/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="75" alt="LinkedIn" />
+  </a>
 </div>
 
 ## 💻 Tech Stack
 
-### Programming Languages:
-<div align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-</div>
-
-### Operating Systems:
-<div align="center">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-</div>
-
-### System Programming:
-<div align="center">
-    <img src="https://img.shields.io/badge/POSIX-%2300599C.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Unix%20System%20Calls-%23FCC624.svg?style=for-the-badge">
-</div>
-
-### Algorithms & Data Structures:
-<div align="center">
-    <img src="https://img.shields.io/badge/Linked%20Lists-%23007ACC.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Code%20Optimization-%2311AB00.svg?style=for-the-badge">
-</div>
-
-### Editors & IDEs:
-<div align="center">
-    <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-
-### Development Tools:
-<div align="center">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Makefile-%23007ACC.svg?style=for-the-badge">
-</div>
-
-### System Administration & Security (Basic):
-<div align="center">
-    <img src="https://img.shields.io/badge/User%20Management-%2311AB00.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/SSH%20Configuration-%23007ACC.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Sudo%20Privileges-%23F05032.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Cron%20Jobs-%23FCC624.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/System%20Monitoring-%2311AB00.svg?style=for-the-badge">
-</div>
-
-### Virtualization & Networking (Basic):
-<div align="center">
-    <img src="https://img.shields.io/badge/VirtualBox-%2311AB00.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/LVM%20Management-%23F05032.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/UFW%20Firewall-%2311AB00.svg?style=for-the-badge">
-</div>
-
-### Robotics
-<div align="center">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino%20Cloud-%2311AB00.svg?style=for-the-badge">
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="75" alit="Vim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="75" alt="C" />
+</p>
 
 ## 📊 GitHub Stats:
 <div align="center">
