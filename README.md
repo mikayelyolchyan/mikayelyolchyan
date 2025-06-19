@@ -22,21 +22,9 @@ As a Robotics Workshop Leader at TUMO, I guide teenagers aged 12-18 in hands-on 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="75" alt="C" />
 </p>
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mikayelyolchyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikayelyolchyan&theme=shadow_green&hide_border=false"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikayelyolchyan&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</div>
-
-## ✍️ Random Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
-</div>
-
-## 🔝 Top Contributed Repo
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mikayelyolchyan&limit=5&theme=shadow_green&combine_all_yearly_contributions=true">
 </div>
 
 ---
